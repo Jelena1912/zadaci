@@ -12,9 +12,9 @@ $ocjena2= (float) $_POST["ocjena2"];
 <body>
 <form action="zadatak_5.php"
       method="post">
-    Ocjena 1. kolokvija: <input  type="number" name="ocjena1" /><br>
-    Ocjena 2. kolokvija: <input  type="number" name="ocjena2" /><br>
-    <input type="submit" value="Izračunaj ocjenu" />
+    Ocjena 1. kolokvija: <input  type="number" name="ocjena1" ><br>
+    Ocjena 2. kolokvija: <input  type="number" name="ocjena2" ><br>
+    <input type="submit" value="Izračunaj ocjenu" >
 </form>
 <?php
 if($ocjena1>=1 && $ocjena1<=5 && $ocjena2>=1 && $ocjena2<=5) {
