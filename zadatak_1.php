@@ -8,8 +8,8 @@
     <body>
         <form action="zadatak_1.php"
             method="post">
-            Vrijednost a: <input  type="number" name="vrijednost1" /><br>
-            Vrijednost b: <input  type="number" name="vrijednost2" /><br>
+            Vrijednost a: <input  type="number" name="vrijednost1" ><br>
+            Vrijednost b: <input  type="number" name="vrijednost2" ><br>
             <input type="submit" value="Izračunaj" />
         </form>
 
