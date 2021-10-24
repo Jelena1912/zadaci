@@ -9,7 +9,7 @@ $ime= $_POST["ime"];
     <body>
         <form action="zadatak_2.php"
             method="post">
-                Upiši ime i prezime: <input  type="text" name="ime" value="0" /><br>
+                Upiši ime i prezime: <input  type="text" name="ime" value="0" ><br>
 
             <input type="submit" value="Pošalji" />
         </form>
