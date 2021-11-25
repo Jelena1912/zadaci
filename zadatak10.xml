@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Invoice >
+  <BrojRacuna>005</BrojRacuna>
+
+  <DatumIzdavanja>2020/12/12</DatumIzdavanja>
+
+  <VrijemeIzdavanja>09:42:25</VrijemeIzdavanja>
+
+  <Napomena>Racun se placa gotovinom</Napomena>
+
+  <RokZaPlacanje>2020/19/12</RokZaPlacanje>
+
+  <KodValute>E</KodValute>  
+
+  <BrojStavki>3</BrojStavki>
+
+  <PeriodNaplate>
+    <PocetniDatum>2020/10/12</PocetniDatum>
+    <ZavrsniDatum>2020/19/12</ZavrsniDatum>
+  </PeriodNaplate>  
+
+  <IzdavateljRacuna>
+    <OIB>54648217657</OIB>
+    <NazivTvrtke>Pošta d.o.o.</NazivTvrtke>     
+    <Racunovodja>Anka Anić</Racunovodja>
+    <Adresa>Jezerska 8</Adresa>
+    <Mjesto>Zagreb</Mjesto>
+  </IzdavateljRacuna>
+
+  <Kupac>
+    <OIB>10562486248</OIB>    
+    <NazivTvrtke>Kaufland d.o.o.</NazivTvrtke>
+    <Adresa>Rudeška cesta 12</Adresa>
+    <Mjesto>Zagreb</Mjesto>
+  </Kupac>  
+
+  <PodaciZaPlacanje>
+    <PozivNaBroj>8569-5675</PozivNaBroj>
+    <ModelPlacanja>HR00</ModelPlacanja>
+    <OpisPlacanja>Dostava kuverti i kataloga</OpisPlacanja>
+    <IBAN>HR5684644968416</IBAN>
+    <IznosZaUplatu>1128.00</IznosZaUplatu>
+  </PodaciZaPlacanje>  
+
+  <Stavka>
+    <SifraArtikla>5678</SifraArtikla>
+    <Naziv>Usluga</Naziv>
+    <Kolicina>564</Kolicina>
+    <JedinicnaCijena>2.00</JedinicnaCijena>
+    <UkupnaCijenaBezPoreza>1128.00</UkupnaCijenaBezPoreza>
+    <PoreznaStopa>28%</PoreznaStopa>
+    <CijenaSPorezom>1143.84</CijenaSPorezom>
+  </Stavka>
+
+</Invoice>

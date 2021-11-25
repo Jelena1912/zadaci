@@ -1,0 +1,44 @@
+{
+  "Invoice": {
+    "BrojRacuna": "005",
+    "DatumIzdavanja": "2020/12/12",
+    "VrijemeIzdavanja": "09:42:25",
+    "Napomena": "Racun se placa gotovinom",
+    "RokZaPlacanje": "2020/19/12",
+    "KodValute": "E",
+    "BrojStavki": "3",
+    "PeriodNaplate": {
+      "PocetniDatum": "2020/10/12",
+      "ZavrsniDatum": "2020/19/12"
+    },
+    "IzdavateljRacuna": {
+      "OIB": "54648217657",
+      "NazivTvrtke": "Pošta d.o.o.",
+      "Racunovodja": "Anka Anić",
+      "Adresa": "Jezerska 8",
+      "Mjesto": "Zagreb"
+    },
+    "Kupac": {
+      "OIB": "10562486248",
+      "NazivTvrtke": "Kaufland d.o.o.",
+      "Adresa": "Rudeška cesta 12",
+      "Mjesto": "Zagreb"
+    },
+    "PodaciZaPlacanje": {
+      "PozivNaBroj": "8569-5675",
+      "ModelPlacanja": "HR00",
+      "OpisPlacanja": "Dostava kuverti i kataloga",
+      "IBAN": "HR5684644968416",
+      "IznosZaUplatu": "1128.00"
+    },
+    "Stavka": {
+      "SifraArtikla": "5678",
+      "Naziv": "Usluga",
+      "Kolicina": "564",
+      "JedinicnaCijena": "2.00",
+      "UkupnaCijenaBezPoreza": "1128.00",
+      "PoreznaStopa": "28%",
+      "CijenaSPorezom": "1143.84"
+    }
+  }
+}
